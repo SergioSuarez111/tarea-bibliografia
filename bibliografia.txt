@@ -2,4 +2,8 @@
 
 -Loeliger, J and McCullough, M. Version control with Git.
 
+<<<<<<< HEAD
 -este es el commit de david cs 2
+=======
+-Roberto, R. Oliver Git
+>>>>>>> 246d7b599aa16e8764989e32ab166fdf5b2ccfb4
