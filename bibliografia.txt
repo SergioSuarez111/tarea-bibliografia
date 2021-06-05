@@ -1,3 +1,5 @@
 -Chacon, S. and Straub, B. Pro Git. Apress.
 
 -Loeliger, J and McCullough, M. Version control with Git.
+
+-Castells, M. & Subirats, M. (2007). Mujeres y hombres, ¿un amor imposible? Alianza.- Referencias de EduardoPech
