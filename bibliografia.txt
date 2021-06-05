@@ -2,4 +2,8 @@
 
 -Loeliger, J and McCullough, M. Version control with Git.
 
+<<<<<<< HEAD
 -Castells, M. & Subirats, M. (2007). Mujeres y hombres, ¿un amor imposible? Alianza.- Referencias de EduardoPech
+=======
+-Roberto, R. Oliver Git
+>>>>>>> 246d7b599aa16e8764989e32ab166fdf5b2ccfb4
